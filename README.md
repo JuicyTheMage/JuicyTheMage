@@ -1,5 +1,3 @@
-Hi, I'm Juicy
+Hi, I'm Lucian Chaves
 
 he/him
-
-Beginner programmer
